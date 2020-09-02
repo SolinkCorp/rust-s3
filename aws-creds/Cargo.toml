@@ -18,6 +18,6 @@ path = "src/lib.rs"
 simpl = "0.1.0"
 dirs = "2.0.2"
 rust-ini = "0.15.2"
-tokio = "0.2.20"
+tokio = "0.2.13"
 reqwest = {version = "0.10.4", features = ["json"]}
 
